@@ -1,0 +1,8 @@
+# Sources and secrets are never stored here
+.env
+.env.*
+!.env.example
+02_Datos_Fuente/
+data/private/
+*.xls
+*.xlsx
